@@ -162,7 +162,10 @@ export default function Home() {
           </p>
           <div className="mt-8 overflow-hidden rounded-lg bg-zinc-900 p-4 text-left">
             <code className="text-sm text-green-400">
-              npx create-next-app@latest my-app --example https://github.com/your-username/vibe-starter
+              git clone https://github.com/adamdaigian/vibe-starter.git my-app
+cd my-app
+npm install
+npm run dev
             </code>
           </div>
         </div>

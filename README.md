@@ -27,7 +27,7 @@ When building with AI coding assistants (Cursor, Claude, Copilot, etc.), having 
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/your-username/vibe-starter.git my-app
+git clone https://github.com/adamdaigian/vibe-starter.git my-app
 cd my-app
 npm install
 ```
