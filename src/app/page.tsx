@@ -20,9 +20,17 @@ export default function Home() {
             The documentation structure matters as much as the code.
           </p>
           <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
-            <Button size="lg">Get Started</Button>
-            <Button size="lg" variant="outline">
-              View on GitHub
+            <Button size="lg" asChild>
+              <a href="/get-started">Get Started</a>
+            </Button>
+            <Button size="lg" variant="outline" asChild>
+              <a
+                href="https://github.com/adamdaigian/vibe-starter"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                View on GitHub
+              </a>
             </Button>
           </div>
         </div>
