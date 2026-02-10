@@ -1,5 +1,7 @@
 # ✨ Vibe Starter
 
+**Live demo:** https://vibe-starter-alpha.vercel.app/
+
 A Next.js starter template optimized for **AI-assisted development**. The documentation structure matters as much as the code.
 
 ## Why This Exists
